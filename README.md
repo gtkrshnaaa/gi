@@ -41,7 +41,7 @@ This interpreter allows users to run files with the `.gi` extension, supporting 
 ### **1. Clone or Download the Source Code**  
 If using **Git**, run:  
 ```sh
-git clone https://github.com/user/repo.git
+git clone https://github.com/gtkrshnaaa/gi.git
 cd repo
 ```
 Or manually download `gi.c` and `Makefile`.  
